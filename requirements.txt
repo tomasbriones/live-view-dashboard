@@ -1,0 +1,7 @@
+psycopg2
+requests
+sshtunnel
+dotenv
+pytz
+python-dotenv
+django

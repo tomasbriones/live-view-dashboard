@@ -1,0 +1,12 @@
+STAGE_CODE,STATUS_CODE,STATUS,Descripción
+FINISHED,ABANDONED,Desistida,
+FINISHED,APPROVED,Aprobada,
+FINISHED,EXPIRED,Caducada,
+IN_PROGRESS,OBJECTED,Con oposición,
+IN_PROGRESS,PENDING,Pendiente,
+FINISHED,REJECTED,Denegada,
+IN_PROGRESS,UNDER_REVIEW,Con recurso de reclamación ante el rechazo de la oposición,
+IN_PROGRESS,UNDER_REVIEW,Con recurso de reclamación ante la denegación de la solicitud,
+IN_PROGRESS,UNDER_REVIEW,Con recurso de reconsideración ante la aprobación de la solicitud,
+IN_PROGRESS,UNDER_REVIEW,Con recurso de reconsideración ante la denegación de la solicitud,
+IN_PROGRESS,UNDER_REVIEW,Con recurso de reconsideración ante rechazo de la oposición,

@@ -1,0 +1,7 @@
+__pycache__
+.env.dev
+.env.prod
+.env.server
+.env.testing
+.vscode
+/__pycache__

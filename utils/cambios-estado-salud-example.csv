@@ -1,0 +1,31 @@
+STAGE_CODE,STATUS_CODE,STATUS,Descripción
+ENTRY,SAVED,Guardado Parcial,La solicitud ha sido guardada parcialmente
+ENTRY,SENDED,Trámite ingresado,El trámite ha sido ingresado exitosamente
+ENTRY,WAITING,Disponible para pago,Solicitud disponible para pago
+ENTRY,ENTERED,Trámite Pagado Presencialmente,La solicitud ha sido pagada de forma presencial
+ENTRY,ENTERED,Trámite Pagado vía web,La solicitud ha sido pagado vía web
+ADMISSIBILITY,ADMITTED,Trámite a la espera de revisión,El trámite se encuentra a la espera de ser revisado
+ADMISSIBILITY,UNDER_REVIEW,A la espera de Visación de Rebaja de Arancel ,Se revisará la visación de rebaja del arancel
+ADMISSIBILITY,UNDER_REVIEW,Se Valida Beneficio,Se ha validado la rebaja de arancel
+IN_PROGRESS,UNDER_REVIEW,Trámite revisado por Supervisor,El trámite ha sido revisado por el supervisor
+IN_PROGRESS,UNDER_REVIEW,Trámite asignado a Fiscalizador,La solicitud ha sido asignada a un Fiscalizador
+IN_PROGRESS,FIXED,Trámite devuelto por Fiscalizador,Solicitud observada por el Fiscalizador
+IN_PROGRESS,UNDER_REVIEW,Fiscalizador Programa la Visita ,Se ha programado la visita por parte del Fiscalizador
+IN_PROGRESS,UNDER_REVIEW,Fiscalizador Informa Visita ,El fiscalizador a emitido el informe de la visita
+IN_PROGRESS,FIXED,Cambio de Proyectista,Se cambió el proyectista asignado a la solicitud
+IN_PROGRESS,FIXED,Supervisor solicita modificación del Trámite al Fiscalizador,Supervisor solicita modificación del Trámite al Fiscalizador
+IN_PROGRESS,SIGNING,Trámite disponible para Firmar,El trámite se encuentra a la espera de ser firmado
+IN_PROGRESS,FIXED,Trámite devuelto por Firmador,El Firmado a devuelto el trámite
+IN_PROGRESS,OBSERVED,Se ha agregado Observación,La solicitud ha sido observada
+IN_PROGRESS,OBSERVED,Se modifica el Monto a Pagar y se genera Diferencia de Arancel,Se ha modificado el monto a pagar
+IN_PROGRESS,FIXED,Se modifica la Región de Tramitación,Se ha modificado la región de trámitación de su solicitud
+IN_PROGRESS,APPROVED,Documento Firmado,Su resolución ha sido emitida
+IN_PROGRESS,REJECTED,Documento Firmado,Su resolución ha sido emitida
+IN_PROGRESS,MIXED,Documento Firmado,Su resolución ha sido emitida
+IN_PROGRESS,SAFE_RATING,Documento Firmado,Su resolución ha sido emitida
+IN_PROGRESS,ANNOYING_RATING,Documento Firmado,Su resolución ha sido emitida
+IN_PROGRESS,DANGER_RATING,Documento Firmado,Su resolución ha sido emitida
+IN_PROGRESS,POLLUTANT_RATING,Documento Firmado,Su resolución ha sido emitida
+FINISHED,NOTIFY,Documento Notificado,El pronunciamiento ha sido notificado correctamente
+FINISHED,ABANDONED,Trámite sin movimiento por 6 meses,La solicitud se ha declarado en abandono 
+FINISHED,DELETED,Trámite Eliminado por 6 meses sin movimiento,Trámite eliminado por no tener movimiento
